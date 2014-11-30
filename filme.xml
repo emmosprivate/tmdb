@@ -1,0 +1,32 @@
+<!DOCTYPE fahrplan SYSTEM "filme.dtd">
+<?xml-stylesheet type="text/css" href="filme.css" ?>
+<root>
+<file name="Zurück in die Zukunft 2">
+<movie>
+<poster_path>/q8N3SYQovG9fOdlsZ3N5Cv5oPiq.jpg</poster_path>
+<title>Zurück in die Zukunft II</title>
+<release_date>1989-11-20</release_date>
+<popularity>1.25361193214</popularity>
+<original_title>Back to the Future Part II</original_title>
+<backdrop_path>/snLFUFzWUZCdYkAbhZlaGJxiY3I.jpg</backdrop_path>
+<vote_count>1136</vote_count>
+<adult>False</adult>
+<vote_average>6.8</vote_average>
+<id>165</id>
+</movie>
+</file>
+<file name="Aushilfsgangster ">
+<movie>
+<poster_path>/olJnFqaRkh5Hxaeybgjg71ffOW.jpg</poster_path>
+<title>Aushilfsgangster</title>
+<release_date>2011-11-04</release_date>
+<popularity>0.339154687685</popularity>
+<original_title>Tower Heist</original_title>
+<backdrop_path>/18f11LguqJG2PhiNOUABDbTSJMT.jpg</backdrop_path>
+<vote_count>259</vote_count>
+<adult>False</adult>
+<vote_average>5.9</vote_average>
+<id>59108</id>
+</movie>
+</file>
+</root>

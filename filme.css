@@ -1,0 +1,52 @@
+@CHARSET "UTF-8";
+movie{
+	color:aqua;
+	background-color: green;
+}
+
+poster_path{
+	color: black;
+	background-color: white; 
+}
+
+title{
+	color: red;
+}
+
+release_date{
+	color: yellow;
+}
+
+popularity{
+	color: orange;
+	background-color: black;
+}
+
+orginal_title{
+	color: maroon;
+}
+
+backdrop_path{
+	color: white;
+	background-color: black;
+}
+
+adult{
+	
+}
+
+vote_average{
+	
+}
+
+id{
+	
+}
+
+<!ELEMENT popularity      (#CDATA)>
+<!ELEMENT orginal_title      (#CDATA)>
+<!ELEMENT backdrop_path      (#CDATA)> 
+<!ELEMENT adult      (#CDATA)>
+<!ELEMENT vote_average      (#CDATA)>
+<!ELEMENT id      (#CDATA)>
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT root (file)>
+<!ELEMENT file  (movie)>
+<!ELEMENT movie   (poster_path,title,release_date,popularity,orginal_title,backdrop_path,vote_count,adult,vote_average,id)>
+<!ELEMENT poster_path (#CDATA)>
+<!ELEMENT title      (#CDATA)>
+<!ELEMENT release_date   (#CDATA)>
+<!ELEMENT popularity      (#CDATA)>
+<!ELEMENT orginal_title      (#CDATA)>
+<!ELEMENT backdrop_path      (#CDATA)> 
+<!ELEMENT adult      (#CDATA)>
+<!ELEMENT vote_average      (#CDATA)>
+<!ELEMENT id      (#CDATA)>
+
