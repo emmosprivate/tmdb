@@ -1,6 +1,5 @@
 <!DOCTYPE fahrplan SYSTEM "filme.dtd">
 <?xml-stylesheet type="text/css" href="filme.css" ?>
-<?xml-stylesheet type="text/xsl" href="filme.xsl" ?>
 <root>
 <file name="Zurück in die Zukunft 2">
 <movie>
